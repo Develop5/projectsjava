@@ -1,5 +1,6 @@
 # projectsjava
-This is just a folder to practice with VM
+This is a project to work with students (VM)
+The folder contains multiple projects
 The structure **needs** to be changed in such a way that examples can be read upfront
 
 ## Indications
